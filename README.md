@@ -1,6 +1,6 @@
 # Dumper Companion
 
-Old Macintosh CD-ROMs use [https://en.wikipedia.org/wiki/Hierarchical_File_System](HFS),
+Old Macintosh CD-ROMs use [HFS](https://en.wikipedia.org/wiki/Hierarchical_File_System),
 a format that modern operating systems can't natively handle.
 
 This companion program extracts game data from an HFS disk image and formats it for use in ScummVM.
